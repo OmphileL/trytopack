@@ -1,0 +1,9 @@
+README.md
+setup.py
+trytopackage/__init__.py
+trytopackage/myModule.py
+trytopackage.egg-info/PKG-INFO
+trytopackage.egg-info/SOURCES.txt
+trytopackage.egg-info/dependency_links.txt
+trytopackage.egg-info/requires.txt
+trytopackage.egg-info/top_level.txt
